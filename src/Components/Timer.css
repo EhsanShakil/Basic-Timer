@@ -1,0 +1,29 @@
+.App {
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+.timer {
+  color: white;
+  width: 200px;
+  height: 200px;
+  border-radius: 20px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin: 10px;
+  background: #ff5f6d;
+  background: -webkit-linear-gradient(to right, #ffc371, #ff5f6d);
+  background: linear-gradient(to right, #ffc371, #ff5f6d);
+  transition: 1s;
+}
+.clock {
+  font-size: 22px;
+}
+.timer:hover {
+  transform: scale(1.1);
+}
