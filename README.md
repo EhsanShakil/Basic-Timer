@@ -1,3 +1,7 @@
+##Bit Component Link
+
+[Basic Timer](https://bit.dev/timerreact/react-timer/timer).
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
