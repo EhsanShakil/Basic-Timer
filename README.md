@@ -1,4 +1,4 @@
-##Bit Component Link
+## Bit Component Link
 
 [Basic Timer](https://bit.dev/timerreact/react-timer/timer).
 
